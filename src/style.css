@@ -11,6 +11,10 @@ h1 {
     text-align: center;
 }
 
+a {
+    color: #8b2126;
+}
+
 .input-prompt {
     width: 60%;
     border-radius: 30px;
