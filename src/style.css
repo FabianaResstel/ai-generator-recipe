@@ -9,10 +9,21 @@ body {
 
 h1 {
     line-height: 1.5;
+    text-align: center;
 }
 
 a {
     color: #8b2126;
+}
+
+form {
+    text-align: center;
+    padding: 20px;
+
+}
+
+footer {
+    margin: 30px 60px 30px;
 }
 
 .container {
@@ -29,9 +40,23 @@ a {
     width: 60%;
     border-radius: 30px;
     padding: 15px;
+    background-color: #fbf0ed;
+    font-size: 16px;
+
 }
 
 .input-search {
     border-radius: 30px;
     padding: 15px;
+    background-color: #fbf0ed;
+
+}
+
+.recipe {
+    font-size: 16px;
+    background-color: #fbf0ed;
+    padding: 20px;
+    margin: auto 60px;
+    font-weight: 350;
+    border-radius: 30px;
 }
